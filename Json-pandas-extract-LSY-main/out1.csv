@@ -1,0 +1,147 @@
+,index,1,0
+0,287,((C4H11N))2((CH3NH3))3Pb4I13-specifier-None-PTAA- {'names',8.4
+1,3783,((CH5N2)PbI3)0.85((CH3NH3)PbBr3)0.15-None-Au-FTO- {'specifier',18.51
+2,443,((CH5N2)PbI3)0.85((CH3NH3)PbBr3)0.15-None-gold-FTO- {'specifier',14.9
+3,3125,(5-AVA)x((CH3NH3))1-xPbI3-None-None-None-None,8.27
+4,7135,(C8H11N)2SnI4-None-titanium dioxide-TiO2- 'titanium dioxide',8.75
+5,6715,(CH3NH3)0.57(CH5N2)0.38Rb0.05PbI3-None-spiro - OMeTAD-ITO- {'specifier',16.68
+6,4694,(CH3NH3)0.57(CH5N2)0.38Rb0.05PbI3-None-zinc oxide-ZnO- 'zinc oxide',15.81
+7,4129,(CH3NH3)0.6(CH5N2)0.4PbI3-None-Spiro - OMeTAD-ITO- {'specifier',8.33
+8,6222,(CH3NH3)0.6(CH5N2)0.4PbI3-table_caption-ZnO-ITO- {'specifier',13.97
+9,5622,(CH3NH3)1−xEAxPbI3-None-spiro - MeOTAD-FTO- {'specifier',8.95
+10,4556,(CH3NH3)PbCl3-None-None-silver-None,0.42
+11,3698,"(CH3NH3)PbI3-4-butyl-N,N-diphenylaniline-poly-TPD-ITO- {'specifier'",17.2
+12,4505,(CH3NH3)PbI3-None-Ag-ITO- {'specifier',18.11
+13,7251,(CH3NH3)PbI3-None-Ag-NiO- {'specifier',18.53
+14,6778,(CH3NH3)PbI3-None-Ag-glass- {'specifier',13.39
+15,6643,(CH3NH3)PbI3-None-Cross-linked PTAA-ITO- {'specifier',5.64
+16,6641,(CH3NH3)PbI3-None-Doped cross-linked PTAA-ITO- {'specifier',9.61
+17,7435,(CH3NH3)PbI3-None-None-MoO3 / TBDI-None,14.85
+18,3893,(CH3NH3)PbI3-None-None-None-None,8.66
+19,7437,(CH3NH3)PbI3-None-None-PEDOT - ['PEDOT,14.85
+20,7436,(CH3NH3)PbI3-None-None-PEDOT -None,14.85
+21,142,(CH3NH3)PbI3-None-None-c-TiO2- ['c-TiO2',14.53
+22,3799,(CH3NH3)PbI3-None-None-gold-None,9.76
+23,3708,(CH3NH3)PbI3-None-None-silver-None,9.9
+24,1735,(CH3NH3)PbI3-None-PC71BM-ITO- {'specifier',13.7
+25,131,(CH3NH3)PbI3-None-PEDOT -FTO- {'specifier',11.42
+26,1769,(CH3NH3)PbI3-None-PEDOT -ITO- {'specifier',11.0
+27,2849,"(CH3NH3)PbI3-None-PEDOT-PEDOT - 'poly(3,4-ethylenedioxythiophene) polystyrene sulfonate'",14.16
+28,6634,(CH3NH3)PbI3-None-PTAA-ITO- {'specifier',10.43
+29,1754,(CH3NH3)PbI3-None-Pentacene-ITO- {'specifier',5.6
+30,1760,(CH3NH3)PbI3-None-Perylene-ITO- {'specifier',9.7
+31,1134,(CH3NH3)PbI3-None-Spiro - OMeTAD-ITO- {'specifier',16.8
+32,6764,"(CH3NH3)PbI3-None-Spiro-OMeTAD-Spiro - OMeTAD- ""2,2',7,7'-Tetrakis-(N,N-di-4-methoxyphenylamino)-9,9'-spirobifluorene""",8.25
+33,5121,(CH3NH3)PbI3-None-TiO2-FTO- {'specifier',9.79
+34,7439,(CH3NH3)PbI3-None-]}}}-TBDI- {'names',7.3
+35,7340,(CH3NH3)PbI3-None-compound-FEH- {'value',16.9
+36,7422,(CH3NH3)PbI3-None-document-0 / 0 / 0- 'Au',15.16
+37,7423,(CH3NH3)PbI3-None-document-3 / 0 / 1- 'Au',15.99
+38,7424,(CH3NH3)PbI3-None-document-3 / 1 / 1- 'Au',16.37
+39,7427,(CH3NH3)PbI3-None-document-3 / 2 / 0.5- 'Au',16.32
+40,7425,(CH3NH3)PbI3-None-document-3 / 2 / 1- 'Au',16.87
+41,7428,(CH3NH3)PbI3-None-document-3 / 2 / 2- 'Au',16.01
+42,7426,(CH3NH3)PbI3-None-document-3 / 3 / 1- 'Au',16.19
+43,143,(CH3NH3)PbI3-None-document-c- / m-TiO2- 'Spiro - OMeTAD',17.47
+44,1267,(CH3NH3)PbI3-None-document-tin oxide- 'SnO2',15.94
+45,538,(CH3NH3)PbI3-None-spiro - MeOTAD-glass- {'specifier',9.65
+46,5865,(CH3NH3)PbI3-None-spiro - OMeTAD-FTO- {'specifier',19.34
+47,6640,(CH3NH3)PbI3-None-spiro - OMeTAD-ITO- {'specifier',13.74
+48,6277,(CH3NH3)PbI3-None-tin dioxide-SnO2- 'tin dioxide',9.2
+49,7530,(CH3NH3)PbI3-None-titanium dioxide-TiO2- 'titanium dioxide',1.7000000000000002
+50,7098,(CH3NH3)PbI3-PEDOT -PC61BM-FTO- {'specifier',12.46
+51,3444,(CH3NH3)PbI3-Spiro - MeOTAD-SnO2-FTO- {'specifier',15.2
+52,1738,(CH3NH3)PbI3-Spiro - OMeTAD-PC61BM-ITO- {'specifier',11.6
+53,5806,(CH3NH3)PbI3-Spiro - OMeTAD-SnO2-FTO- {'specifier',9.64
+54,145,(CH3NH3)PbI3-Spiro-OMeTAD-None-m-TiO2- ['m-TiO2',9.92
+55,3199,(CH3NH3)PbI3-document-TiO2-FTO- {'specifier',9.8
+56,1874,(CH3NH3)PbI3-document-ZnO-ITO- {'specifier',14.8
+57,7339,(CH3NH3)PbI3-specifier-None-P3HT- {'names',9.9
+58,2546,(CH3NH3)PbI3-specifier-PEDOT -ITO- {'specifier',9.79
+59,7097,(CH3NH3)PbI3-value-CeOx ( 1 mg / ml )-FTO- {'specifier',4.09
+60,7341,(CH3NH3)PbI3-value-None-Spiro - OMeTAD- ['Spiro-OMeTAD',15.8
+61,7099,(CH3NH3)PbI3-value-PC61BM / CeOx ( 0.5 mg / ml )-FTO- {'specifier',14.85
+62,7100,(CH3NH3)PbI3-value-PC61BM / CeOx ( 1 mg / ml )-FTO- {'specifier',16.7
+63,7101,(CH3NH3)PbI3-value-PC61BM / CeOx ( 2 mg / ml )-FTO- {'specifier',13.58
+64,5629,(CH3NH3)Sn(I1−xBrx)3-None-titanium dioxide-TiO2- 'titanium dioxide',1.08
+65,2852,"(CH5N2)0.4(CH3NH3)0.6PbI3-None-PEDOT-PEDOT - 'poly(3,4-ethylenedioxythiophene) polystyrene sulfonate'",13.28
+66,6743,(CH5N2)0.4(CH3NH3)0.6PbI3-None-TiO2-FTO- {'specifier',8.34
+67,7388,(CH5N2)0.83Cs0.17Pb(I0.6Br0.4)3-None-None-None-None,15.08
+68,1210,(CH5N2)PbI3-None-TiO2-FTO- {'specifier',9.84
+69,5395,(Cs0.07(CH5N2)0.81(CH3NH3)0.12)Pb(Br0.38I2.62)-document-TiO2-FTO- {'specifier',18.0
+70,4636,CH3NH3PbBr3-None-Au-ITO- {'specifier',4.312
+71,5778,"CH3NH3PbCl3-None-PEDOT-PEDOT - 'poly(3,4-ethylenedioxythiophene) polystyrene sulfonate'",8.94
+72,5124,CH3NH3PbI3-Ag-PC60BM-ITO- {'specifier',1.96
+73,5731,CH3NH3PbI3-None-Ag-ITO- {'specifier',7.3
+74,1741,CH3NH3PbI3-None-Control device-FTO- {'specifier',15.52
+75,3417,CH3NH3PbI3-None-None-Au-None,9.3
+76,1622,CH3NH3PbI3-None-None-FTO-None,8.63
+77,2860,CH3NH3PbI3-None-None-ITO-None,9.7
+78,7282,CH3NH3PbI3-None-None-None-None,9.47
+79,2408,CH3NH3PbI3-None-None-gold-None,9.62
+80,517,CH3NH3PbI3-None-None-silver-None,10.1
+81,1930,"CH3NH3PbI3-None-PEDOT-PEDOT - 'poly(3,4-ethylenedioxythiophene) polystyrene sulfonate'",9.71
+82,201,CH3NH3PbI3-None-SnO2-ITO- {'specifier',12.1
+83,1742,CH3NH3PbI3-None-Spiro - OMeTAD-FTO- {'specifier',18.34
+84,5814,"CH3NH3PbI3-None-Spiro-OMeTAD-spiro - OMeTAD- ""2,2',7,7'-Tetrakis-(N,N-di-4-methoxyphenylamino)-9,9'-spirobifluorene""",9.32
+85,204,CH3NH3PbI3-None-ZnO-ITO- {'specifier',14.0
+86,1339,CH3NH3PbI3-None-c-TiO2-FTO- {'specifier',6.8
+87,7527,CH3NH3PbI3-None-platinum-FTO- {'specifier',7.39
+88,4553,"CH3NH3PbI3-None-poly(3,4-ethylenedioxythiophene) polystyrene sulfonate-0.68 ± 0.09 ( 0.75 )- 'PEDOT ",3.6
+89,4545,"CH3NH3PbI3-None-poly(3,4-ethylenedioxythiophene) polystyrene sulfonate-0.71 ± 0.09 ( 0.82 )- 'PEDOT ",2.9
+90,4544,"CH3NH3PbI3-None-poly(3,4-ethylenedioxythiophene) polystyrene sulfonate-0.79 ± 0.07 ( 0.88 )- 'PEDOT ",4.0
+91,4552,"CH3NH3PbI3-None-poly(3,4-ethylenedioxythiophene) polystyrene sulfonate-0.80 ± 0.03 ( 0.83 )- 'PEDOT ",6.1
+92,4546,"CH3NH3PbI3-None-poly(3,4-ethylenedioxythiophene) polystyrene sulfonate-0.80 ± 0.06 ( 0.85 )- 'PEDOT ",3.8
+93,4549,"CH3NH3PbI3-None-poly(3,4-ethylenedioxythiophene) polystyrene sulfonate-0.83 ± 0.05 ( 0.87 )- 'PEDOT ",7.8
+94,4543,"CH3NH3PbI3-None-poly(3,4-ethylenedioxythiophene) polystyrene sulfonate-0.84 ± 0.05 ( 0.89 )- 'PEDOT ",5.9
+95,4550,"CH3NH3PbI3-None-poly(3,4-ethylenedioxythiophene) polystyrene sulfonate-0.85 ± 0.02 ( 0.86 )- 'PEDOT ",8.1
+96,4551,"CH3NH3PbI3-None-poly(3,4-ethylenedioxythiophene) polystyrene sulfonate-0.88 ± 0.02 ( 0.90 )- 'PEDOT ",8.8
+97,4547,"CH3NH3PbI3-None-poly(3,4-ethylenedioxythiophene) polystyrene sulfonate-0.88 ± 0.04 ( 0.90 )- 'PEDOT ",7.6
+98,4548,CH3NH3PbI3-None-specifier-Conventional- 'Conventional'},6.7
+99,5876,CH3NH3PbI3-None-spiro - MeOTAD-FTO- {'specifier',12.8
+100,2692,CH3NH3PbI3-None-spiro - MeOTAD-glass- {'specifier',15.91
+101,4716,CH3NH3PbI3-None-spiro - OMeTAD-FTO- {'specifier',18.0
+102,6397,CH3NH3PbI3-None-tin dioxide-SnO2- 'tin dioxide',14.34
+103,5765,CH3NH3PbI3-None-titanium dioxide-TiO2- 'titanium dioxide',9.56
+104,58,CH3NH3PbI3-Spiro - OMeTAD-c-TiO2-FTO- {'specifier',14.45
+105,5127,CH3NH3PbI3-document-SnO2-ITO- {'specifier',15.03
+106,6661,CH3NH3PbI3-document-TiO2-FTO- {'specifier',9.7
+107,310,CH3NH3PbI3-document-ZnO-FTO- {'specifier',2.6
+108,4904,CH3NH3PbI3-document-ZnO-ITO- {'specifier',7.68
+109,6579,CH3NH3PbI3-document-titanium dioxide-TiO2- 'titanium dioxide',8.78
+110,2696,CH3NH3PbI3-specifier-PEDOT -FTO- {'specifier',8.23
+111,97,CH3NH3PbI3-specifier-PEDOT -ITO- {'specifier',6.87
+112,1334,CH3NH3PbI3-specifier-PEDOT -glass- {'specifier',7.42
+113,4025,CH3NH3PbI3-specifier-PEDOT -indium tin oxide- {'specifier',8.67
+114,2009,CH3NH3PbI3-spiro - OMeTAD-SnO2-FTO- {'specifier',13.67
+115,965,CH3NH3PbI3-xBrx-None-None-None-None,17.24
+116,2578,CH3NH3PbI3-xBrx-None-None-gold-None,14.77
+117,3459,"CH3NH3PbI3-xClx-None-PEDOT-PEDOT - 'poly(3,4-ethylenedioxythiophene) polystyrene sulfonate'",15.2
+118,6892,CH3NH3PbI3-xClx-specifier-PEDOT -ITO- {'specifier',7.95
+119,3097,CH3NH3PbI3−xClx-None-None-None-None,9.66
+120,7506,CH3NH3PbI3−xClx-None-None-gold-None,8.25
+121,1262,CH3NH3PbI3−xClx-None-None-indium tin oxide-None,9.84
+122,7504,CH3NH3PbI3−xClx-None-document-Cu - BHT- 'gold',14.13
+123,7505,CH3NH3PbI3−xClx-None-document-ITO- 'gold',8.29
+124,5911,CH3NH3PbI3−xClx-None-titanium dioxide-TiO2- 'titanium dioxide',5.6
+125,6589,CH3NH3PbI3−xClx-document-TiO2-ITO- {'specifier',8.9
+126,5154,CH3NH3PbI3−xClx-specifier-PEDOT -ITO- {'specifier',6.16
+127,3100,CH3NH3PbI3−xClx-specifier-PEDOT -glass- {'specifier',12.73
+128,2738,CH3NH3PbX3-None-None-FTO-None,7.91
+129,5751,Cs0.15((CH3NH3)0.7(CH5N2)0.3)0.85PbI3-None-None-None-None,17.6
+130,6878,"Cs0.15(CH5N2)0.85PbI3-None-PEDOT-PEDOT - 'poly(3,4-ethylenedioxythiophene) polystyrene sulfonate'",8.15
+131,4126,Cs0.15(CH5N2)0.85PbI3-specifier-PEDOT -ITO- {'specifier',13.9
+132,4137,CsPbBr3-None-c-TiO2-FTO- {'specifier',7.93
+133,2985,CsPbBr3-specifier-PEDOT -ITO- {'specifier',3.9
+134,446,Cu2ZnSnS4-None-CZTS ( n = 1 ; 97 nm )-ITO- {'specifier',5.8
+135,447,Cu2ZnSnS4-None-CZTS ( n = 2 ; 196 nm )-ITO- {'specifier',5.8
+136,448,Cu2ZnSnS4-None-CZTS ( n = 3 ; 278 nm )-ITO- {'specifier',5.8
+137,449,Cu2ZnSnS4-None-PEDOT -ITO- {'specifier',5.8
+138,7153,Pb(CH3COO)·3H2O-Spiro-OMeTAD-c-TiO2-c-TiO2- 'titanium dioxide',16.8
+139,5193,"PbAc2·3H2O-None-PEDOT-PEDOT - 'poly(3,4-ethylenedioxythiophene) polystyrene sulfonate'",17.5
+140,5249,PbI2(DMSO)x-None-None-Al-None,16.6
+141,3962,"specifier-,7,7-table_caption-table_caption- 'ZnO'",4.41
+142,5277,specifier-None-None-document-None,15.3
+143,7503,specifier-None-None-specifier- 'document'}},14.26
+144,5151,specifier-None-document-document- 'Ag',18.4
+145,6230,specifier-None-document-document- 'TiO2',5.76
